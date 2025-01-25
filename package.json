@@ -1,0 +1,19 @@
+{
+  "name": "devtinder",
+  "version": "1.0.0",
+  "description": "tinders for devs",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app.js",
+    "dev": "nodemon app.js" 
+  },
+  "keywords": [
+    "nodejs",
+    "javascript"
+  ],
+  "author": "Dharmendra Mahato",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
